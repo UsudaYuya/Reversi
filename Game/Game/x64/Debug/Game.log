@@ -1,0 +1,13 @@
+﻿  Game.cpp
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\Reversi\Game\Game\Draw.h(32,1): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\Reversi\Game\Game\Draw.h(62,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\Reversi\Game\Game\Draw.h(71,1): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\Reversi\Game\Game\Reversi.h(220,14): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\Reversi\Game\Game\Game.cpp(159,26): warning C4244: '引数': 'WPARAM' から 'int' への変換です。データが失われる可能性があります。
+  Reversi.cpp
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\Reversi\Game\Game\Draw.h(32,1): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\Reversi\Game\Game\Draw.h(62,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\Reversi\Game\Game\Draw.h(71,1): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\Reversi\Game\Game\Reversi.h(220,14): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  Game.vcxproj -> C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\Reversi\Game\x64\Debug\Game.exe
